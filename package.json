@@ -1,0 +1,17 @@
+{
+  "name": "resttest",
+  "version": "1.0.0",
+  "description": "Bench.co initial interview test",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "mocha"
+  },
+  "author": "Brenden Mendes",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "got": "^11.8.2",
+    "mocha": "^9.1.3"
+  }
+}
